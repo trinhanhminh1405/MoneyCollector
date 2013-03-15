@@ -1,0 +1,4 @@
+MoneyCollector
+==============
+
+FPT IS GLOBAL
